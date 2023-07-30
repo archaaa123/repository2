@@ -10,9 +10,7 @@
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg) ">
         </div>
 
-        <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
-        </div>
+       
 
         <!-- Slide 3 -->
       
